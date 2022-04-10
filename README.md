@@ -1,6 +1,6 @@
-# Data_Viz_2022.-
-2022
-นางสาวจุฑากาญจน์ ชิงจันทร์ รหัส 623020514-5 ลำดับ 17
+# Data_Viz_2022.
+
+ชื่อ นางสาวจุฑากาญจน์ ชิงจันทร์ รหัส 623020514-5 ลำดับ 17
 
 * PRESENT PROJECT จริงใจ GROUP
   * [GITHUB](https://github.com/623020514-5/data_viz_2022/blob/main/Data_Viz_Project.ipynb)
